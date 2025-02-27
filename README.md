@@ -1,4 +1,4 @@
-# trocarlampada repo
+# Trocar lâmpada repo
 
 ![./lampada.png](LAMPADA)
 
