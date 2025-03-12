@@ -11,5 +11,6 @@ Desligar o interruptor
 Desenroscar a Lampada1 do plafon
 Pegar e enroscar a Lampada2 no plafon
 Ligar o interruptor
+Testar lampada
 
 Fim
